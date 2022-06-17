@@ -2,7 +2,7 @@
 
 ## deps
 - python3
-- online-jdge-tools
+- online-judge-tools
 - elixir
 
 ## workflow
